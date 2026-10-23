@@ -6,6 +6,7 @@
 {-# LANGUAGE Trustworthy         #-}
 {-# LANGUAGE TypeFamilies        #-}
 {-# LANGUAGE RankNTypes          #-}
+{-# LANGUAGE TypeOperators       #-}
 
 module Database.Beam.MySQL.Connection where
 
