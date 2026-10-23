@@ -28,3 +28,5 @@ dist-newstyle
 cabal.project.local
 *.iml
 .idea
+.direnv/
+.cabal-dir/
