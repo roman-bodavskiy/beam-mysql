@@ -1,4 +1,5 @@
 {-# LANGUAGE KindSignatures #-}
+{-# LANGUAGE TypeOperators #-}
 
 module Database.Beam.MySQL.Syntax.Render where
 
